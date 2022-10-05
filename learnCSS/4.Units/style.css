@@ -1,0 +1,17 @@
+main{
+    border: 5px solid red;
+    width: 25%;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+section{
+    border: 5px dashed gold;
+    width: 50vw;
+}
